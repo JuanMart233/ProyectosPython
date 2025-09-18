@@ -2,4 +2,5 @@
 actividad #1 Proyectos realizados con el profesor Teviño
 # Martinez Meza Juan de Dios 5-D
 
-![Uploading lulu.jpeg…]()
+
+![foto](https://github.com/user-attachments/assets/81ca6d6e-1847-49ad-b1d5-639993f18a2f)
